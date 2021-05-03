@@ -1,0 +1,10 @@
+{
+    "auth": {
+        "users":{
+            "ramya":{
+                "username":"ramya",
+                "password":"ramya123"
+            }
+        }
+    }
+}
